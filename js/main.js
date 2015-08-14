@@ -69,10 +69,10 @@ jQuery(function($) {
 			biography = '​Ingeniero de Sistemas especializado en el ciclo de vida de desarrollo de software, primordialmente en la plataforma Microsoft. Arquitecto de soluciones de software orientadas a implementar y estandarizar los procesos y oportunidades de negocio de clientes y empresas. Director de arquitectura de software especializado en administrar portafolios de proyectos, emplear múltiples plataformas tecnológicas para proponer soluciones, liderar equipos multidisciplinarios de desarrollo, y conseguir los objetivos de tiempo, costo, funcionalidad y calidad de los proyectos a cargo.';
 		}
 		else if(person === 'JuanC'){
-			biography = '';
+			biography = 'Ingeniero de Sistemas graduado de la Escuela Colombiana de Ingeniería, trabajo como director del área de desarrollo de software en una empresa dedicada a la construcción del aplicaciones para el sector bancarío. Mayor experiencia en aplicaciones de en paltaforma Microsoft \'.NET\'';
 		}
 		else if(person === 'Lina'){
-			biography = '';
+			biography = 'Soy de Bogotá. Recientemente terminé mis estudios de Pregrado de Ingeniería de Sistemas y Computación en la Universidad de los Andes. Durante este periodo realicé un año de práctica profesional en consultoría de proyectos de desarrollo de software. Actualmente me encuentro en mi primer semestre de MISO.';
 		}
 		else if(person === 'JuanD'){
 			biography = 'Ingeniero de sistemas de la Escuela Colombiana de Ingeniería con tres años de experiencia en desarrollo de aplicaciones web sobre Java (JEE) en una empresa especializada en soluciones a la medida, actualmente trabajo en proyectos para entidades financieras y movilidad empresarial (Modelo de negocio) y soy estudiante de primer semestre de Maestría en Ingeniería en la Universidad de los Andes';
