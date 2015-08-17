@@ -185,7 +185,7 @@ a .icon-rotate-90:before,a .icon-rotate-180:before,a .icon-rotate-270:before,a .
 .icon-bookmark-empty:before{content:"\f097";}
 .icon-phone-sign:before{content:"\f098";}
 .icon-twitter:before{content:"\f099";}
-.icon-facebook:before{content:"\f09a";}
+    .icon-facebook:before{content:"\f09a";}
 .icon-github:before{content:"\f09b";}
 .icon-unlock:before{content:"\f09c";}
 .icon-credit-card:before{content:"\f09d";}
@@ -407,3 +407,7 @@ a .icon-rotate-90:before,a .icon-rotate-180:before,a .icon-rotate-270:before,a .
 .icon-vk:before{content:"\f189";}
 .icon-weibo:before{content:"\f18a";}
 .icon-renren:before{content:"\f18b";}
+.icon-truck:before{content:"\1F69C";}
+.icon-history:before{content:"\1F4C3";}
+.icon-letter:before{content:"\1F48C";}
+.icon-family-group:before{content:"\1F46A";}
